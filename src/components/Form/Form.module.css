@@ -1,0 +1,33 @@
+.formContainer {
+  display: inline;
+  align-items: center;
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  
+  
+}
+
+.inputField {
+  display: flex;
+  margin-bottom: 10px;
+  max-width: 200px;
+  width: 100%;
+  margin: 0 auto;
+  height: 30px;
+  background-color: #fff;
+  border: none;
+  border-radius: 10px;
+}
+
+label {
+  color: #ffffff;
+  font-size: 18px;
+}
+
+input {
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}

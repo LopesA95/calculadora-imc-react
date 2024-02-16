@@ -1,0 +1,14 @@
+/* src/components/Result.module.css */
+.resultContainer {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.title{
+  font-size: 26px;
+  color: #fff;
+  text-decoration: underline;
+}
+.value {
+  color: #fff;
+}
